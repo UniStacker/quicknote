@@ -1,0 +1,1 @@
+/data/data/com.termux/files/usr/bin/c++ -O2 -g -DNDEBUG -Xlinker --dependency-file=CMakeFiles/qn.dir/link.d CMakeFiles/qn.dir/src/core/cli.cpp.o CMakeFiles/qn.dir/src/main.cpp.o CMakeFiles/qn.dir/src/utils.cpp.o -o bin/qn

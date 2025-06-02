@@ -1,0 +1,3 @@
+/data/data/com.termux/files/home/.projects/Practice Projects/Quick Note Logger/CMakeFiles/qn.dir
+/data/data/com.termux/files/home/.projects/Practice Projects/Quick Note Logger/CMakeFiles/edit_cache.dir
+/data/data/com.termux/files/home/.projects/Practice Projects/Quick Note Logger/CMakeFiles/rebuild_cache.dir
